@@ -2,39 +2,44 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:8957e5&height=220&section=header&text=Chirag%20Jagtap&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Turning%20real-world%20problems%20into%20working%20software&descAlignY=60&descSize=18" width="100%" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Java+Full-Stack+Developer+%E2%98%95;Backend+Engineering+Enthusiast+%E2%9A%99%EF%B8%8F;Cloud+%7C+AWS+%7C+Spring+%7C+Hibernate;I+learn+by+building%2C+breaking%2C+and+fixing+%F0%9F%9B%A0%EF%B8%8F" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Full-Stack+Developer;Backend+Engineering+Enthusiast;Spring+%7C+Hibernate+%7C+Django+%7C+Angular;Cloud+Builder+on+AWS;I+learn+by+building%2C+breaking+and+fixing" alt="typing" /></a>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/chirag-jagtap"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/0P6Omv7hB2/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.instagram.com/_cj.27_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://github.com/CHIRAG-JAGTAP"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=CHIRAG-JAGTAP&label=Profile%20Views&color=1f6feb&style=for-the-badge" alt="views" />
 
 </div>
 
 ---
 
-## 👨‍💻 `whoami`
+## whoami
 
 ```java
 public class Chirag {
 
     String role     = "Java Full-Stack Developer";
     String focus    = "Backend Engineering";
-    String learning = "System Design, Cloud & DSA";
+    String learning = "System Design, Cloud and DSA";
     String mantra   = "Fewer moving parts, fewer ways to fail.";
 
     String[] stack  = { "Java", "Spring MVC", "Hibernate", "Django", "Angular", "AWS" };
 
     boolean openToWork() {
-        return true; // SDE roles · 2027 graduate
+        return true; // SDE roles, 2027 graduate
     }
 
     public static void main(String[] args) {
         while (alive) {
             learn();
             build();
-            break();   // yes, on purpose
+            break();   // on purpose
             fix();
             repeat();
         }
@@ -46,39 +51,39 @@ I build software by turning real-world problems into useful products. Four inter
 
 ---
 
-## 🧭 What drives me
+## What drives me
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>🧱</h3>
+      <h2>01</h2>
       <b>Simplicity</b><br/>
       <sub>Fewer moving parts,<br/>fewer ways to fail.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>🎯</h3>
+      <h2>02</h2>
       <b>Product thinking</b><br/>
       <sub>Start with the person<br/>and the problem, not the stack.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>⚙️</h3>
+      <h2>03</h2>
       <b>Systems</b><br/>
       <sub>I want to know how it works,<br/>and what happens when it breaks.</sub>
     </td>
   </tr>
   <tr>
     <td width="33%" align="center">
-      <h3>🧠</h3>
+      <h2>04</h2>
       <b>Fundamentals</b><br/>
       <sub>OOP, DSA and clean architecture<br/>before any framework.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>🎨</h3>
+      <h2>05</h2>
       <b>Creative side</b><br/>
       <sub>Graphic design and<br/>leading a creative team.</sub>
     </td>
     <td width="33%" align="center">
-      <h3>🏆</h3>
+      <h2>06</h2>
       <b>Hackathons</b><br/>
       <sub>Smart India Hackathon<br/>and GDGOC Hackathon.</sub>
     </td>
@@ -87,7 +92,7 @@ I build software by turning real-world problems into useful products. Four inter
 
 ---
 
-## 🧰 Tech arsenal
+## Tech arsenal
 
 <div align="center">
 
@@ -108,7 +113,7 @@ I build software by turning real-world problems into useful products. Four inter
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 
-**Data & Cloud**<br/>
+**Data and Cloud**<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -125,12 +130,12 @@ I build software by turning real-world problems into useful products. Four inter
 
 ---
 
-## 🚀 Things I've built
+## Things I've built
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Nutri Sync</h3>
+      <h3>Nutri Sync</h3>
       <sub><b>Hospital Management System</b></sub><br/><br/>
       Hospital workflow platform with a digital-menu module for patient nutrition.<br/><br/>
       <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square" />
@@ -139,7 +144,7 @@ I build software by turning real-world problems into useful products. Four inter
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🏦 ValorPay</h3>
+      <h3>ValorPay</h3>
       <sub><b>J2EE Banking Portal</b></sub><br/><br/>
       Multi-tier banking app with secure MVC architecture, built for doorstep banking run by retired Army officers.<br/><br/>
       <img src="https://img.shields.io/badge/Struts-D22128?style=flat-square" />
@@ -149,7 +154,7 @@ I build software by turning real-world problems into useful products. Four inter
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 EduTrack</h3>
+      <h3>EduTrack</h3>
       <sub><b>Smart Student Portal</b></sub><br/><br/>
       Academic dashboard with task management, performance tracking and AI-powered timetable analysis.<br/><br/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
@@ -157,7 +162,7 @@ I build software by turning real-world problems into useful products. Four inter
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>💸 Velle-Earning</h3>
+      <h3>Velle-Earning</h3>
       <sub><b>Student Job Platform</b></sub><br/><br/>
       Micro-job marketplace with dynamic listings, secure authentication and an admin dashboard.<br/><br/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square" />
@@ -167,18 +172,18 @@ I build software by turning real-world problems into useful products. Four inter
   </tr>
 </table>
 
-> 🔗 Check the **pinned repositories** above for source code and demos.
+Source code and demos are in the pinned repositories above.
 
 ---
 
-## 🗺️ My journey so far
+## My journey so far
 
 ```mermaid
 timeline
     title Learning by building
     May 2025 : Java / J2EE Intern
              : Spring MVC, Hibernate, Struts
-    Sep 2025 : ML & Data Science Trainee
+    Sep 2025 : ML and Data Science Trainee
              : K-Means, ensemble models
     Oct 2025 : MEAN Stack Intern
              : Angular, Node.js, MongoDB
@@ -189,19 +194,26 @@ timeline
 
 ---
 
-## 🧩 Problem solving
-
-I practice data structures and algorithms regularly on LeetCode.
+## Problem solving
 
 <div align="center">
-  <a href="https://leetcode.com/u/0P6Omv7hB2/">
-    <img src="https://leetcard.jacoblin.cool/0P6Omv7hB2?theme=dark&font=Karla&ext=heatmap" alt="LeetCode stats" />
-  </a>
+
+### Chirag Jagtap on LeetCode
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F0P6Omv7hB2&query=%24.totalSolved&label=Solved&color=FFA116&style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F0P6Omv7hB2&query=%24.easySolved&label=Easy&color=00B8A3&style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F0P6Omv7hB2&query=%24.mediumSolved&label=Medium&color=FFC01E&style=for-the-badge" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2F0P6Omv7hB2&query=%24.hardSolved&label=Hard&color=EF4743&style=for-the-badge" />
+
+<br/>
+
+<a href="https://leetcode.com/u/0P6Omv7hB2/"><img src="https://img.shields.io/badge/View%20Chirag%20Jagtap's%20LeetCode-1f6feb?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+
 </div>
 
 ---
 
-## 📈 GitHub snapshot
+## GitHub snapshot
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CHIRAG-JAGTAP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
@@ -212,13 +224,21 @@ I practice data structures and algorithms regularly on LeetCode.
 
 ---
 
-## 🤝 Let's connect
+## Thought of the moment
 
-I'm looking for a **Software Development Engineer** role starting 2027. If you're building something backend-heavy and want someone who learns fast and owns what they ship, message me on [LinkedIn](https://www.linkedin.com/in/chirag-jagtap).
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+</div>
+
+---
+
+## Let's connect
+
+I'm looking for a **Software Development Engineer** role starting 2027. If you're building something backend-heavy and want someone who learns fast and owns what they ship, message me on [LinkedIn](https://www.linkedin.com/in/chirag-jagtap) or [Instagram](https://www.instagram.com/_cj.27_/).
 
 <div align="center">
 
-*"Curious by default. Practical by design."* ✨
+*Curious by default. Practical by design.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,50:1f6feb,100:0d1117&height=110&section=footer" width="100%" alt="footer" />
 
